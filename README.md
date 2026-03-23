@@ -4,7 +4,7 @@
 
 QuickStaging is a cutting-edge AI tool designed to transform empty property photos into beautifully staged homes in seconds. This repository contains the official user guide, product roadmap, and technical insights.
 
-![QuickStaging Before and After: Empty room transformed into a modern, minimalist, and industrial living space]([https://getquickstaging.com/img/og-en.jpg](/assets/before-after.jpg)
+![QuickStaging Before and After: Empty room transformed into a modern, minimalist, and industrial living space](/assets/before-after.jpg)
 
 ## 🚀 Key Features
 
